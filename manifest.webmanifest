@@ -1,0 +1,10 @@
+{
+  "name": "Sehati — Self-Assessment Telehealth",
+  "short_name": "Sehati",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F3FC",
+  "theme_color": "#5B3FB5",
+  "lang": "id",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
